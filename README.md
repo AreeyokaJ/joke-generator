@@ -1,6 +1,3 @@
-Sure! Here's an example of a README for your joke generator project:
-
----
 
 # Joke Generator
 
